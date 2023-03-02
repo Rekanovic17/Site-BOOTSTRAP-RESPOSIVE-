@@ -1,0 +1,17 @@
+#cont {
+
+    background-image: url(./imgs/hero.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+a {
+    text-decoration: none;
+
+
+}
+
+p {
+    font-family: sans-serif;
+}
